@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-This project was done in Andorid Studio and Dart Environment and added to the git hub.
+This project was done in Andorid Studio and Dart and swift Environment and then added to the git hub.
 
 This app was co-devleoped by me in fall 2022, an effort to learn Flutter and app development in depth.
 
